@@ -33,4 +33,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 
 ## Practice Header
-*Here is a link to [The College of Water Informatics]:(https://www.waterboards.ca.gov/resources/oima/cowi/)
+*Here is a link to [The College of Water Informatics:](https://www.waterboards.ca.gov/resources/oima/cowi/)*
