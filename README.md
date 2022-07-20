@@ -43,6 +43,10 @@ These are the teams participating: please edit this repo yourself following our 
 
 **Anna Holder**, Environmental Scientist & Tribal Coordinator at the SWRCB's Office of Information Management and Analysis
 
+**Devan Burke**, Associate Governmental Program Analyst, OIMA 
+
+**Tina Ures**, Engineering Geologist, DWQ
+
 
 ## More Background on Openscapes and the Champions program:
 
