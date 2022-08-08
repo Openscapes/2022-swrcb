@@ -20,7 +20,7 @@ Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Call
 08/17 | [1. Openscapes mindset](https://docs.google.com/document/d/1EItsyjxfePqrt1OsIf6d0am1vbmwYvdSYCG5w1BZW8E/edit?usp=sharing) | [mindset](https://docs.google.com/presentation/d/1lxpEHpnOGS_9bvefM599Lr7Rbr_nL2N62YR0Iyb0vjU/edit?usp=sharing), [better science in less time]() | Seaside Chat (trailhead)
 08/31 | [2. Team culture and data strategies for future us]() | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Seaside Chat (code of conduct); Co-working 
 09/14 | [3. GitHub Clinic]()<br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
-09/28 | [4. Documentation and coding strategies for future us]() | [documentation](), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Seaside Chat (pathways); Co-working
+09/28 | [4. Documentation and pathways for future us]() | [documentation](), [pathways](https://openscapes.github.io/series/coding-strategies) | Seaside Chat (pathways); Co-working
 10/19 | 5. Pathways share |  | 
 
 The Water Boards has a GitHub [organization](https://github.com/CAWaterBoardDataCenter) which is currently creating its guidance for contributions. Tip: You can listen instead of read material online via [talkify](https://talkify.net/web-reader-read-any-website-aloud).
