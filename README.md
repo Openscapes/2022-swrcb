@@ -17,11 +17,11 @@ Agenda links below are only accessible to Cohort participants (*coming soon!*), 
 
 Date | Cohort Call Agendas          | Series Chapters |      Between Cohort Calls
 ----| ------------------|----------------------|--------------------------------
-08/17 | [1. Openscapes mindset](https://docs.google.com/document/d/1EItsyjxfePqrt1OsIf6d0am1vbmwYvdSYCG5w1BZW8E/edit?usp=sharing) | [mindset](https://docs.google.com/presentation/d/1lxpEHpnOGS_9bvefM599Lr7Rbr_nL2N62YR0Iyb0vjU/edit?usp=sharing), [better science in less time]() | Seaside Chat (trailhead)
-08/31 | [2. Team culture and data strategies for future us]() | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/data-strategies) | Seaside Chat (code of conduct); Co-working 
-09/14 | [3. GitHub Clinic]()<br> | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Hands-on collaboration in the browser: editing, committing, and Issues
-09/28 | [4. Documentation and coding strategies for future us]() | [documentation](), [coding strategies](https://openscapes.github.io/series/coding-strategies) | Seaside Chat (pathways); Co-working
-10/19 | 5. Pathways share |  | 
+08/17 | [1. Openscapes mindset](https://docs.google.com/document/d/14OBdZJYBRoFWCsTFCdtU77U52xpPdLodyvic5RpkyEM/edit?usp=sharing) | [mindset](https://docs.google.com/presentation/d/1lxpEHpnOGS_9bvefM599Lr7Rbr_nL2N62YR0Iyb0vjU/edit?usp=sharing), [better science in less time](https://docs.google.com/presentation/d/1ej1vqk90xm7fQ5z4wYo3Z8tigO6JnBrm7HMgb2xrPsg/edit?usp=sharing) | Seaside Chat (trailhead)
+08/31 | [2. Culture & safety and data strategies for future us](https://docs.google.com/document/d/1dAeB8ksDFfB495Rgp9HiGQV2cWO6FwieJ6z0ZDJ2uAU/edit?usp=sharing) | [culture & safety](https://docs.google.com/presentation/d/1feU6HTpR8IQqqOxSmyQCerFK7Ej77brTO7iky4LRWk0/edit?usp=sharing), [data strategies](https://openscapes.github.io/series/data-strategies) | Seaside Chat (code of conduct); Co-working 
+09/14 | [3. GitHub Clinic](https://docs.google.com/document/d/1G9ZAhVfp4WFNnJuaslvbWqAOBUGwYqebo6AdEqH34_E/edit?usp=sharing)<br> | [publishing (slides 1-20) and project management (slides 21-29)](https://docs.google.com/presentation/d/1s0HMC41bd5CHi_msO_N2Ir1PkNJL2fLQeAQu8dP_FiM/edit?usp=sharing) | Hands-on collaboration in the browser: editing, committing, and Issues
+09/28 | [4. Documentation and pathways for future us](https://docs.google.com/document/d/1Yit4PfJWX-MUNvP5mpuvfeiobLXpMPATmLdPE0q0UEY/edit?usp=sharing) | [documentation](), [pathways]() | Seaside Chat (pathways); Co-working
+10/19 | [5. Pathways share](https://docs.google.com/document/d/1l2Jy04bpi6N9SWsf6zPSGRYnPGmgRjxVDLzzLe2piZ4/edit?usp=sharing) |  | 
 
 The Water Boards has a GitHub [organization](https://github.com/CAWaterBoardDataCenter) which is currently creating its guidance for contributions. Tip: You can listen instead of read material online via [talkify](https://talkify.net/web-reader-read-any-website-aloud).
 
