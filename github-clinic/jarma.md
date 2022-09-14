@@ -8,7 +8,7 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
-We can make lists for  ** *the* Party** – *note that lists need a carriage return before list items!*
+We can make lists for  ***the*** **Party** – *note that lists need a carriage return before list items!*
 
 1. beer
 2. wine
