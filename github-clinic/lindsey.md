@@ -31,6 +31,11 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
-**This is a bold scntence becuase why not**
+**This is a bold scentence becuase why not**
+
+
+1. This is interesting
+2. This is helpful
+3. This is useful
 
 
