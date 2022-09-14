@@ -32,3 +32,5 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
 [Bioassessment Program Webpage](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioassessment/)
+
+![cabw pic 3](https://user-images.githubusercontent.com/106410233/190264849-43ba2f8a-4424-4eba-abfe-73932cecae66.jpg)
