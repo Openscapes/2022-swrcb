@@ -8,11 +8,13 @@ We can make words **bold** or *italic*.
 
 ## We can make headers.
 
-We can make lists – *note that lists need a carriage return before list items!*
+#### We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
 2. tamales
 3. cakes
+4. donuts
+5. tomatoes
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
@@ -21,7 +23,7 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
+**We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: **
 
 ![](../horst-champions-trailhead.png)
 
