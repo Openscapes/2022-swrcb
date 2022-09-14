@@ -1,34 +1,17 @@
-# GitHub practice from the browser
+# Hello World!
 
-Working on GitHub.com, we contribute changes through **commits**. Let's create several commits by making small edits to this file, writing a commit message, and committing changes to see them posted nicely online to communicate our work. 
+My name is **Michelle** and welcome to my cool page!
 
-This file is written in Markdown, which formats text. For example, with Markdown:
+![](https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/30d8441f32bf1d0d43fb53bba752b6e6.jpeg?x-expires=1663308000&x-signature=%2FPvgBXEt5lsY3HH4kVNKhRnbTOU%3D)
 
-We can make words **bold** or *italic*.
+I like the following: 
 
-## We can make headers.
+1. cats & dogs
+2. burritos
+3. fun socks
 
-We can make lists – *note that lists need a carriage return before list items!*
+## My Projects
 
-1. bananas
-2. tamales
-3. cakes
+Click this link to view my projects on GitHub: [Projects](https://github.com/mmtang)
 
-[Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
-
-> [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
-Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
-
-*Note that we've also made a indented quote block with the `>` symbol*
-
-We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
-
-![](../horst-champions-trailhead.png)
-
-*Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
-
-## Your turn
-
-**Click the pencil to edit and make several commits as play around – what else can you change or add?**
-
-
+![](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg?crop=1.00xw:0.752xh;0,0.0601xh&resize=640:*)
