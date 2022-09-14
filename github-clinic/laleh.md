@@ -31,4 +31,11 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
+Here is my wish list of what I want to achieve:
+1. Learn how to use GitHub
+2. Learn R
+3. Analyze POTW PFAS data using R in GitHub platform
+
+[PFAS Mapping Tool](https://geotracker.waterboards.ca.gov/map/pfas_map) is a *public site* for downloading all the PFAS data collected in response to the Water Board Orders.
+
 
