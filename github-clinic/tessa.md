@@ -31,4 +31,4 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
 
-
+Check out the [SWAMP IQ website](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/)
