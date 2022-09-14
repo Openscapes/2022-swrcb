@@ -30,5 +30,10 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ## Your turn
 
 **Click the pencil to edit and make several commits as play around – what else can you change or add?**
+## Github Clinic Practice!
 
+Check out [this presentation](https://www.waterboards.ca.gov/water_issues/programs/swamp/docs/cwt/guidance/4454.pdf) by The Nature Conservancy about native freshwater mussels in CA. 
 
+1. listing
+2. listing more 
+3. so many lists
