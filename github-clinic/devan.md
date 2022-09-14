@@ -38,6 +38,6 @@ List -
 2. Tuesday 
 3. Wednesday 
 
-> *Italics with and indent 
+>> *Italics with and indent 
 
 
