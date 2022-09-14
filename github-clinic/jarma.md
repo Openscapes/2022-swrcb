@@ -10,7 +10,7 @@ We can make words **bold** or *italic*.
 
 We can make lists for  ***the*** **Party** – *note that lists need a carriage return before list items!*
 
-1. beer
+1. [beer](https://www.safeway.com/shop/product-details.960103678.html?cmpid=ps_swy_noc_ecom_goo_20210610_71700000084400715_58700007756946988_92700070440041993&gclid=Cj0KCQjw94WZBhDtARIsAKxWG-984rCGG5UBTGIsFftVOFB4ebTyW8AJohxo9yvLPJHKNRkQI_IQxaoaAmMyEALw_wcB&gclsrc=aw.ds)
 2. wine
 3. spirits
 4. snacks
