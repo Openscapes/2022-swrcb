@@ -6,7 +6,12 @@ This file is written in Markdown, which formats text. For example, with Markdown
 
 We can make words **bold** or *italic*.
 
+**This is an example of a bolded phrase**
+ 
+ *This is an example of an italicized phrase**
+
 ## We can make headers.
+### This is an example of a header
 
 We can make lists – *note that lists need a carriage return before list items!*
 
