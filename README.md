@@ -28,21 +28,27 @@ The Water Boards has a GitHub [organization](https://github.com/CAWaterBoardData
 
 These are the teams participating: please edit this repo yourself following our GitHub Clinic!
 
-**The PFAS Team** is a cross-unit [project team](https://www.waterboards.ca.gov/pfas/) within the Division of Water Quality at the Water Boards.
+-   **The PFAS Team** is a cross-unit [project team](https://www.waterboards.ca.gov/pfas/) within the Division of Water Quality at the Water Boards.
 
-**The SWAMP Team** is a [unit](https://www.waterboards.ca.gov/water_issues/programs/swamp/) within the Office of Information Management and Analysis at the Water Boards.
+-   **The SWAMP Team** is a [unit](https://www.waterboards.ca.gov/water_issues/programs/swamp/) within the Office of Information Management and Analysis at the Water Boards.
 
-**The Performance Report Team** is a [project team](https://www.waterboards.ca.gov/about_us/performance_report_2021/index.html) within the Office of Information Management and Analysis at the Water Boards.
+-   **The Performance Report Team** is a [project team](https://www.waterboards.ca.gov/about_us/performance_report_2021/index.html) within the Office of Information Management and Analysis at the Water Boards.
 
-## Openscapes team
+## Openscapes Team
 
-[**Corey Clatterbuck**](https://www.coreyclatterbuck.com/), Environmental Scientist at the SWRCB's Office of Information Management and Analysis
+-   [**Corey Clatterbuck**](https://www.coreyclatterbuck.com/), Environmental Scientist, OIMA
 
-**Anna Holder**, Environmental Scientist & Tribal Coordinator at the SWRCB's Office of Information Management and Analysis
+-   **Anna Holder**, Environmental Scientist & Tribal Coordinator, OIMA
 
-**Devan Burke**, Associate Governmental Program Analyst, OIMA
+-   **Devan Burke**, Associate Governmental Program Analyst, OIMA
 
-**Tina Ures**, Engineering Geologist, DWQ
+-   **Tina Ures**, Engineering Geologist, DWQ
+
+### Guest Teachers
+
+-   Call 1: [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes) - [Better Science in Less Time](https://docs.google.com/presentation/d/1aBXGCsQSYlE2A94yP887woUsaqsv7xPdpG8jennaxqg/edit?usp=sharing)
+
+-   Call 2: [Ileana Fenwick](https://openscapes.org/team) (UNC Chapel Hill & Openscapes) - [Data strategies for Future Us](https://docs.google.com/presentation/d/1c4Ld4Kt4tWw2usjNXgUNlDjwQSfdjCJ_SfvmIS7b6c0/edit?usp=sharing)
 
 ## More Background on Openscapes and the Champions program:
 
