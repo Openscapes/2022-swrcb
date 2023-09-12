@@ -46,9 +46,9 @@ These are the teams participating: please edit this repo yourself following our 
 
 ### Guest Teachers
 
--   Call 1: [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes) - [Better Science in Less Time](https://docs.google.com/presentation/d/1aBXGCsQSYlE2A94yP887woUsaqsv7xPdpG8jennaxqg/edit?usp=sharing)
+-   Call 1: [**Julia Stewart Lowndes**](https://openscapes.org/team.html) (Openscapes) - [Better Science in Less Time](https://docs.google.com/presentation/d/1aBXGCsQSYlE2A94yP887woUsaqsv7xPdpG8jennaxqg/edit?usp=sharing)
 
--   Call 2: [Ileana Fenwick](https://openscapes.org/team) (UNC Chapel Hill & Openscapes) - [Data strategies for Future Us](https://docs.google.com/presentation/d/1c4Ld4Kt4tWw2usjNXgUNlDjwQSfdjCJ_SfvmIS7b6c0/edit?usp=sharing)
+-   Call 2: [**Ileana Fenwick**](https://openscapes.org/team) (UNC Chapel Hill & Openscapes) - [Data strategies for Future Us](https://docs.google.com/presentation/d/1c4Ld4Kt4tWw2usjNXgUNlDjwQSfdjCJ_SfvmIS7b6c0/edit?usp=sharing)
 
 ## More Background on Openscapes and the Champions program:
 
